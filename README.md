@@ -80,7 +80,10 @@ VCS (Version Control Systems): Tools like (Git) for tracking changes, collaborat
    
               Asynchronous Programming : Embrace Node.js's asynchronous nature by leveraging promises or async/await for I/O-bound operations. Don't block the event loop with synchronous code.
    
-   ###3-Database Optimization :
+   ### 3-Database Optimization :
    
    Mongoose ODM (Object Data Modeling): Utilize Mongoose to define data models, leverage its built-in query optimizations, and avoid raw MongoDB driver usage unless necessary for specific optimizations.
 
+ futuer plan :
+we need to make all supjects related to web app as soon as student uploud projects have a Bonus on each supject or depend on doctor convienence or related to GPA ++ we need to add model AI to maintain duplicated projects to provid doctors with showing each project on discussion day to make them sure that no there is another project had steald or have the same points so as to make our web app have many different projects ideas ++
+we want to improve the Performance after that in case the program increases like add indexing in mongoDB ,Cluster Mode to  handling more concurrent requests and Code Splitting for faster page load times.
